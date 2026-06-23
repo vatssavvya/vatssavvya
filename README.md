@@ -13,4 +13,4 @@ I am currently seeking opportunities in software engineering or quantitative fin
 
 **Tools/Libraries**: _TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, scikit-learn _
 
-**Interests**: _Software Engineering/Development, Machine learning, AI agents, algorithms, quantitative methods_
+**Interests**: _Software Engineering/Development, Machine learning, AI agents, algorithms, Robotics, quantitative methods_
