@@ -27,3 +27,4 @@ Tools/Libraries: TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, s
 🦾 Robotics
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/)
