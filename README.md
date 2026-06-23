@@ -7,8 +7,8 @@ I have several years of experience in robot software development with FRC Team 1
 I am currently seeking opportunities in software engineering or quantitative finance, with a strong interest in roles at the intersection of mathematics and systems-level problem solving.
 
 
-Languages: Python, Java
+**Languages**: Python, Java
 
-Tools/Libraries: TensorFlow, PyTorch, Pydantic, Jupyter, Git
+**Tools/Libraries**: TensorFlow, PyTorch, Pydantic, Jupyter, Git
 
-Interests: Machine learning, AI agents, algorithms, quantitative methods
+**Interests**: Machine learning, AI agents, algorithms, quantitative methods
