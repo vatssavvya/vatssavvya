@@ -1,3 +1,5 @@
+👋Hello There!
+
 I am a CS major at UCLA, class of 2030 with a minor in math, originally based in the Greater NYC area.
 
 My focus is machine learning and AI. I've conducted research on skin cancer classification, benchmarking CNNs, RNNs, XGBoost, and EfficientNetV2 on lesion image data, and developed a self-learning research agent in Python that autonomously queries DuckDuckGo and Wikipedia, with support for both OpenAI and Anthropic models.
