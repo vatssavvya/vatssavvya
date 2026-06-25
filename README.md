@@ -19,12 +19,13 @@ Languages: Python, Java, C, C++, HTML, CSS, JavaScript
 Tools/Libraries: TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, scikit-learn
 
 
-## 🔍 Interests
+## 🔍 Skills/Interests
 
 Software Engineering & Development,
 Machine Learning & AI Agents,
 Algorithms & Quantitative Methods,
-Robotics
+Robotics,
+Cybersecurity
 
 
 
