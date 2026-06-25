@@ -21,10 +21,10 @@ Tools/Libraries: TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, s
 
 ## 🔍 Interests
 
-🛠️ Software Engineering & Development
-🤖 Machine Learning & AI Agents
-📊 Algorithms & Quantitative Methods
-🦾 Robotics
+Software Engineering & Development,
+Machine Learning & AI Agents,
+Algorithms & Quantitative Methods,
+Robotics
 
 
 
