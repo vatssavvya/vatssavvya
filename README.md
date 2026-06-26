@@ -1,6 +1,6 @@
 ## 👋 Hello There!
 
-I am a CS student at UCLA, class of 2030, pursuing a minor in math, originally based in the Greater NYC area.
+I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, pursuing a minor in math, originally based in the Greater NYC area.
 
 
 ## 🧠 About Me
