@@ -1,3 +1,5 @@
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vatssavvya&show_icons=true&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👋 Hello There!
 
 I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, pursuing a minor in math, originally based in the Greater NYC area.
