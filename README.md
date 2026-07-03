@@ -1,4 +1,4 @@
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vatssavvya&show_icons=true&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=vatssavvya&show_icons=true&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff)](https://github.com/stats-organization/github-stats-extended)
 
 ## 👋 Hello There!
 
