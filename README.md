@@ -16,7 +16,7 @@ I am currently seeking opportunities in software engineering or quantitative fin
 
 ## 💻 Languages & Tools
 
-Languages: Python, Java, C, C++, HTML, CSS, JavaScript
+Languages: Python, Java, C, C++, Lua, HTML, CSS, JavaScript
 
 Tools/Libraries: TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, scikit-learn
 
