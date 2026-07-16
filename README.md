@@ -1,4 +1,4 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vatssavvya&show_icons=true&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vatssavvya&show_icons=true&hide_rank=true&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff)](https://github.com/stats-organization/github-stats-extended)
 
 ## 👋 Hello There!
 
