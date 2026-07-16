@@ -1,6 +1,3 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vatssavvya&show_icons=true&hide_rank=true&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff)](https://github.com/stats-organization/github-stats-extended)
-
-
 ## 👋 Hello There!
 
 I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, pursuing a minor in math, originally based in the Greater NYC area.
