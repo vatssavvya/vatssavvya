@@ -1,5 +1,3 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/vatssavvya?theme=dark&font=Baloo+2&ext=heatmap)
-
 ## 👋 Hello There!
 
 I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, pursuing a minor in math, originally based in the Greater NYC area.
@@ -35,3 +33,4 @@ Cybersecurity
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/vatssavvya?theme=dark&font=Baloo+2&ext=heatmap)
