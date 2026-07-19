@@ -31,6 +31,6 @@ Cybersecurity
 
 <sub>Feel free to look through my repositories and contact me through my email!</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/) ![LeetCode](https://img.shields.io/badge/dynamic/json?label=LeetCode%20Solved&query=solvedProblem&url=https://leetcode-stats-api.herokuapp.com/vatssavvya&color=orange)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vatssavvya?theme=dark&font=Baloo+2&ext=heatmap)
