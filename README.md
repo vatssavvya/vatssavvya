@@ -1,3 +1,13 @@
+<div align="center">
+  
+  ## 📊 My LeetCode Progression
+
+  [![Leetcode Stats](https://jacoblin.cool)](https://leetcode.com)
+
+  [![LeetCode Badges](https://vercel.app)](https://leetcode.com)
+
+</div>
+
 ## 👋 Hello There!
 
 I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, pursuing a minor in math, originally based in the Greater NYC area.
