@@ -12,7 +12,7 @@ I have several years of experience in robot software development with FRC Team 1
 I am currently seeking opportunities in software engineering or quantitative finance, with a strong interest in roles at the intersection of mathematics and systems-level problem solving.
 
 
-## 💻 Languages & Tools
+## 💻 Languages & Tool
 
 Languages: Python, Java, C, C++, Lua, HTML, CSS, JavaScript
 
