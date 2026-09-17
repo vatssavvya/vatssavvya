@@ -4,15 +4,15 @@
 
 I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, originally based in the Greater NYC area.
 
-
 ## 🧠 About Me
 
 My focus is machine learning, AI, and software systems. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm working toward backend and infrastructure engineering at scale.
 
+I am also a Fellow in Bruin Software Engineers' Quantitative Finance program at UCLA, where I am developing experience at the intersection of software engineering, mathematics, and quantitative finance.
+
 I have several years of experience in robot software development with FRC Team 10366 (Java), and I've participated in Competitive Programming through WWPPC and USACO.
 
 I am currently seeking opportunities in software engineering or quantitative finance, with a strong interest in roles at the intersection of mathematics and systems-level problem solving.
-
 
 ## 💻 Languages & Tools
 
@@ -22,15 +22,15 @@ Tools/Libraries: TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, s
 
 ## 🔍 Skills/Interests
 
-Software Engineering & Development,
-Machine Learning & AI Agents,
-Algorithms & Quantitative Methods,
-Game Development,
-Robotics,
+Software Engineering & Development,  
+Machine Learning & AI Agents,  
+Algorithms & Quantitative Methods,  
+Game Development,  
+Robotics,  
 Cybersecurity
 
-
-
 <sub>Feel free to look through my repositories and contact me through my email!</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/)
