@@ -1,18 +1,12 @@
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vatssavvya&layout=compact&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff&langs_count=10&cache_bust=1)](https://github.com/stats-organization/github-stats-extended)
 
-## 👋 Hello There!
+*My focus is machine learning, AI, and software systems. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm working toward backend and infrastructure engineering at scale.*
 
-I am a CS student at UCLA's Henry Samueli School of Engineering, class of 2030, originally based in the Greater NYC area.
+*I am also a Fellow in Bruin Software Engineers' Quantitative Finance program at UCLA, where I am developing experience at the intersection of software engineering, mathematics, and quantitative finance.*
 
-## 🧠 About Me
+*I have several years of experience in robot software development with FRC Team 10366 (Java), and I've participated in Competitive Programming through WWPPC and USACO.*
 
-My focus is machine learning, AI, and software systems. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm working toward backend and infrastructure engineering at scale.
-
-I am also a Fellow in Bruin Software Engineers' Quantitative Finance program at UCLA, where I am developing experience at the intersection of software engineering, mathematics, and quantitative finance.
-
-I have several years of experience in robot software development with FRC Team 10366 (Java), and I've participated in Competitive Programming through WWPPC and USACO.
-
-I am currently seeking opportunities in software engineering or quantitative finance, with a strong interest in roles at the intersection of mathematics and systems-level problem solving.
+*I am currently seeking opportunities in software engineering or quantitative finance, with a strong interest in roles at the intersection of mathematics and systems-level problem solving.*
 
 ## 💻 Languages & Tools
 
