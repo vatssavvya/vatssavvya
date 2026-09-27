@@ -1,5 +1,13 @@
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vatssavvya&layout=compact&bg_color=050505&title_color=66ff00&text_color=ffffff&icon_color=00bfff&langs_count=10&cache_bust=1)](https://github.com/stats-organization/github-stats-extended)
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1100&color=66FF00&center=true&vCenter=true&width=900&height=100&lines=Hey%2C+I'm+Savya+Vats+%F0%9F%91%8B;CS+%40+UCLA+%7C+Software+Engineering;Machine+Learning+%7C+Quantitative+Finance;Building+systems%2C+models%2C+and+things+that+interest+me."
+    width="100%"
+    alt="Typing SVG"
+  />
+</p>
+
 *My focus is machine learning, AI, and software systems. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm working toward backend and infrastructure engineering at scale.*
 
 *I am also a Fellow in Bruin Software Engineers' Quantitative Finance program at UCLA, where I am developing experience at the intersection of software engineering, mathematics, and quantitative finance.*
