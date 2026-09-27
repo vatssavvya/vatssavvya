@@ -16,6 +16,6 @@
 
 Software Engineering · Backend Systems · Machine Learning · AI · Algorithms · Quantitative Methods · Robotics · Probabilistic Modeling
 
-<sub>Feel free to look through my repositories and reach out through LinkedIn!</sub>
+<sub>Check out my LinkedIn for more activity detail.</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savyavats/)
