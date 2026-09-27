@@ -1,4 +1,4 @@
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vatssavvya)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatssavvya&theme=github_dark)
 
 *I'm a Computer Science student at UCLA interested in software engineering, machine learning, and quantitative problem solving. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm especially interested in backend, infrastructure, and large-scale software systems.*
 
