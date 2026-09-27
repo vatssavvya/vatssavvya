@@ -1,28 +1,25 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatssavvya&theme=github_dark)
 
-*My focus is machine learning, AI, and software systems. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm working toward backend and infrastructure engineering at scale.*
+*I'm a Computer Science student at UCLA interested in software engineering, machine learning, and quantitative problem solving. I've conducted research on deep learning models for medical imaging at an Ivy League university and built AI agents with real-time web querying capabilities. Long-term, I'm especially interested in backend, infrastructure, and large-scale software systems.*
 
-*I am also a Fellow in Bruin Software Engineers' Quantitative Finance program at UCLA, where I am developing experience at the intersection of software engineering, mathematics, and quantitative finance.*
+*I'm also a Fellow in Bruin Software Engineers' Quantitative Finance program at UCLA, where I'm developing experience at the intersection of software engineering, mathematics, and quantitative finance.*
 
-*I have several years of experience in robot software development with FRC Team 10366 (Java), and I've participated in Competitive Programming through WWPPC and USACO.*
-
-*I am currently seeking opportunities in software engineering or quantitative finance, with a strong interest in roles at the intersection of mathematics and systems-level problem solving.*
+*Previously, I spent several years developing robot software with FRC Team 10366 in Java and participated in competitive programming through WWPPC and USACO.*
 
 ## 💻 Languages & Tools
 
-Languages: Python, Java, C, C++, Lua, HTML, CSS, JavaScript
+**Languages:** Python, Java, C, C++, Lua, HTML, CSS, JavaScript
 
-Tools/Libraries: TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, scikit-learn
+**Tools/Libraries:** TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, scikit-learn
 
-## 🔍 Skills/Interests
+## 🔍 Skills & Interests
 
-Software Engineering & Development,  
-Machine Learning & AI Agents,  
+Software Engineering & Backend Systems,  
+Machine Learning & AI,  
 Algorithms & Quantitative Methods,  
-Game Development,  
 Robotics,  
-Cybersecurity
+Probabilistic Modeling
 
-<sub>Feel free to look through my repositories and contact me through my email!</sub>
+<sub>Feel free to look through my repositories and reach out through LinkedIn!</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savya-vats-1720722a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savyavats/)
