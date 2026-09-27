@@ -6,19 +6,15 @@
 
 *Previously, I spent several years developing robot software with FRC Team 10366 in Java and participated in competitive programming through WWPPC and USACO.*
 
-## 💻 Languages & Tools
+## Languages & Tools
 
-**Languages:** Python, Java, C, C++, Lua, HTML, CSS, JavaScript
+**Languages:** Python · Java · C · C++ · Lua · HTML · CSS · JavaScript
 
-**Tools/Libraries:** TensorFlow, PyTorch, Keras, Pydantic, Jupyter, Pandas, NumPy, scikit-learn
+**Tools & Libraries:** TensorFlow · PyTorch · Keras · Pydantic · Jupyter · Pandas · NumPy · scikit-learn
 
-## 🔍 Skills & Interests
+## Focus Areas
 
-Software Engineering & Backend Systems,  
-Machine Learning & AI,  
-Algorithms & Quantitative Methods,  
-Robotics,  
-Probabilistic Modeling
+Software Engineering · Backend Systems · Machine Learning · AI · Algorithms · Quantitative Methods · Robotics · Probabilistic Modeling
 
 <sub>Feel free to look through my repositories and reach out through LinkedIn!</sub>
 
